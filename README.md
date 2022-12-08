@@ -1,6 +1,6 @@
 # WordleProject
 pysimplegui version: 
-  - wordleFunctions.py contains some of the logic used in the main file.
+  - wordleFunctions.py contains logic used in the main file.
   - pySimpleWordle.py is the main file. 
   
 Text version: 
