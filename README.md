@@ -14,15 +14,12 @@ Files must be kept in the same folder!
 
 ## PySimpleGUI Resources
 ALL THE COLORS YOU CAN USE FOR BACKGROUNDS!
-
 https://github.com/PySimpleGUI/PySimpleGUI/blob/master/DemoPrograms/Demo_Color_Names_Smaller_List.py
 
 ALL THE THEMES!
-
 https://www.geeksforgeeks.org/themes-in-pysimplegui/
 
 THE PYSIMPLEGUI COOKBOOK
-
 https://pysimplegui.readthedocs.io/en/latest/cookbook/#the-demo-programs-are-also-recipes
 
 PySimpleGUI_demo.py is a demo I made with the HotDogStand theme. Here she is
