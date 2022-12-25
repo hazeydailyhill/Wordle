@@ -1,5 +1,5 @@
 # Wordle
-Files must be kept in the same folder!
+Files must be kept in the same folder.
 
 ## Text-Based Wordle
 - wordleText.py
