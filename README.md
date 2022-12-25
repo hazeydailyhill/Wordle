@@ -1,20 +1,14 @@
 # Wordle
-Both versions of Wordle randomly select words from 5letterwords.txt.
+The files must be kept in the same folder for both versions of Wordle! In the PySimpleGUI version, the main file pySimpleWordle.py uses logic from wordleFunctions.py.
 
 ## Text Version
 - wordleText.py
 - 5letterwords.txt
 
-Must be in the same folder to run.
-
 ## PySimpleGUI Version
 - pySimpleWordle.py 
 - wordleFunctions.py
-- 5letterwords.txt
-
-Must be in the same folder to run. 
-
-pySimpleWordle.py is the main file, which uses logic from wordleFunctions.py.
+- 5letterwords.txt 
 
 <div align="center">
 <img width="438" alt="Screen Shot 2022-12-07 at 10 03 21 PM" src="https://user-images.githubusercontent.com/76240464/209466397-c9983357-7a9c-4aa9-a808-864827506031.png">
