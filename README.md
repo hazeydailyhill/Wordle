@@ -19,10 +19,11 @@ https://github.com/PySimpleGUI/PySimpleGUI/blob/master/DemoPrograms/Demo_Color_N
 ALL THE THEMES!
 https://www.geeksforgeeks.org/themes-in-pysimplegui/
 
-THE PYSIMPLEGUI COOKBOOK
+THE COOKBOOK
 https://pysimplegui.readthedocs.io/en/latest/cookbook/#the-demo-programs-are-also-recipes
 
 PySimpleGUI_demo.py is a demo I made with the HotDogStand theme. Here she is
+
 
 
 <img width="434" alt="Screen Shot 2022-12-25 at 3 21 49 AM" src="https://user-images.githubusercontent.com/76240464/209467770-20a0d110-6191-40f4-9aca-969bd05bfb66.png">
