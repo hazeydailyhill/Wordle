@@ -4,11 +4,11 @@
 
 
 <div align="left">
-PySimpleGUI version: 
-  - wordleFunctions.py contains logic used in the main file.
-  - pySimpleWordle.py is the main file. 
+##PySimpleGUI Version: 
+- wordleFunctions.py contains logic used in the main file.
+- pySimpleWordle.py is the main file. 
   
-Text version: 
-  - wordleText.py
+##Text Version: 
+- wordleText.py
 
 Both versions of Wordle randomly select words from 5letterwords.txt.
