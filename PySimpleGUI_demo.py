@@ -18,7 +18,7 @@ window = sg.Window('TITLE!!', layout, font=('comicsans',14))
 
 #EVENT LOOP
 # - event = what a user does (entering a word)
-# - value = leters given, etc ('hello')
+# - value = letters given, etc ('hello')
 while True:
     event, values = window.read()
     if event == sg.WIN_CLOSED or event == 'EXIT':
