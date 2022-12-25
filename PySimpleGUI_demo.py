@@ -30,7 +30,7 @@ while True:
 window.close()
 
 
-#ALL THE COLORS YOU CAN USE FOR BACKGROUNDS!
+#ALL THE COLORS!
 #https://github.com/PySimpleGUI/PySimpleGUI/blob/master/DemoPrograms/Demo_Color_Names_Smaller_List.py
 
 #ALL THE THEMES!
